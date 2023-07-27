@@ -8,7 +8,8 @@ Amazone Clone app made with Flutter,mongodb and Node js.
 
 ## Screenshots
 ![WhatsApp Image 2023-07-27 at 18 48 32](https://github.com/Atulp12/Amazone_Clone/assets/107379234/58105c87-2a8e-407f-ab67-dfb29b1667c8)
-![24](https://github.com/Atulp12/Amazone_Clone/assets/107379234/4f993de6-c484-4c15-a7cb-65342a63c31c)
+![24](https://github.com/Atulp12/Amazone_Clone/assets/107379234/c78a7405-697f-4656-af36-f77ffbfff0ac)
+
 
 ![WhatsApp Image 2023-07-27 at 18 48 31](https://github.com/Atulp12/Amazone_Clone/assets/107379234/24ad21b5-cd01-48de-98cd-54f60b9e2b3f)
 ![WhatsApp Image 2023-0![WhatsApp Image 2023-07-27 at 18 47 46](https://github.com/Atulp12/Amazone_Clone/assets/107379234/522bd78c-b076-4b8d-9058-a1d44aac01a0)
